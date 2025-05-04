@@ -42,7 +42,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ***
-![Snake animation](https://raw.githubusercontent.com/Karan5352/Karan5352/output/github-contribution-grid-snake-dark.svg)
+![Karan5352's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karan5352&theme=gotham&hide_border=false)
+![Karan5352's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan5352&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+***
 ![](https://komarev.com/ghpvc/?username=Karan5352)
 <!--
 **Karan5352/Karan5352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
