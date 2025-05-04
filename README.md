@@ -1,4 +1,4 @@
-### Karan - CS @ tOSU
+### Hi, I'm Karan. I'm a CS student at tOSU.
 ***
 #### Languages 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
