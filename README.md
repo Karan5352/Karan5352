@@ -45,7 +45,6 @@
 ![Karan5352's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karan5352&theme=gotham&hide_border=false)
 ![Karan5352's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan5352&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 ***
-![](https://komarev.com/ghpvc/?username=Karan5352)
 <!--
 **Karan5352/Karan5352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
